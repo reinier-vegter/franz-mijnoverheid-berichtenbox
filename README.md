@@ -1,5 +1,5 @@
 # Mijn Overheid Berichtenbox -Franz-Plugin
-A plugin to integrate your Ducht MijnOverheid Berichtenbox with Franx
+A plugin to integrate your Dutch MijnOverheid Berichtenbox with Franx
 
 # Installation
 1. Open the Franz Plugins folder:
