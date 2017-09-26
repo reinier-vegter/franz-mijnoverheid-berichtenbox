@@ -1,0 +1,23 @@
+{
+  "name": "franz-mijnoverheid-berichtenbox",
+  "version": "1.0.0",
+  "description": "MijnOverheid Berichtenbox",
+  "main": "index.js",
+  "author": "Reinier Vegter <info@reiniervegter.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mijn.overheid.nl/berichtenbox/inbox",
+    "serviceName": "MijnOverheid - Berichtenbox",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
